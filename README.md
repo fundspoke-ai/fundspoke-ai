@@ -1,3 +1,3 @@
 # fundspoke-ai
 
-![Fundspoke Platform Logo](images/fundspoke-platform.jpg)
+![Fundspoke Platform Logo](fundspoke-platform.jpg)
